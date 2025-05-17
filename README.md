@@ -33,7 +33,7 @@ Follow these steps carefully to set up and run your bot:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/your-bot-repo.git
+git clone //this repo link
 cd your-bot-repo
 ```
 ### 2. Install Required Libraries
