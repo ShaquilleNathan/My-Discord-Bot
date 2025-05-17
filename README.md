@@ -88,6 +88,11 @@ User: /quote
 Bot: "The only limit to our realization of tomorrow is our doubts of today." – Franklin D. Roosevelt
 ```
 
+<div align="center">
+  <img src="https://i.postimg.cc/TPRs9frD/Whats-App-Image-2025-05-17-at-17-50-35.jpg" alt="Demo Image" style="width: 300px; height: auto;" />
+  <img src="https://i.postimg.cc/2jsrxL3L/Whats-App-Image-2025-05-17-at-17-51-09.jpg" alt="Demo Image" style="width: 300px; height: auto;" />
+</div>
+
 ### 📌 Notes
 - The bot is experimental and can be improved further.
 - The quotes are selected from a predefined list (can be connected to API later).
