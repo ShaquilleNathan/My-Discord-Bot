@@ -46,7 +46,7 @@ pip install discord.py python-dotenv
 - Click New Application, name it (e.g. MyBot)
 - Go to the Bot tab → click Add Bot
 - Under Bot settings, enable the "Message Content Intent"
-- Copy the bot token (you’ll use this in the next step)
+- Run code. Copy the bot token that has been sent in a `.txt` extension (you’ll use this in the next step)
 ### 4. Store Your Token Securely
 Create a .env file in your project directory:
 ```ini
