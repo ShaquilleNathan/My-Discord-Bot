@@ -8,7 +8,7 @@ A simple Python-based Discord bot that can greet users and send random quotes al
 
 - Responds to greetings using commands like `/hello` or `$hello`.
 - Sends a collection of emojis using `/emoji` or `$emoji`.
-- Displays a random inspirational quote with `/quote` or `$quote`.
+- Displays a random inspirational quote with `/inspire` or `$inspire`.
 - Easy to customize: you can add your own commands and responses in the source code.
 
 ---
@@ -21,7 +21,7 @@ A simple Python-based Discord bot that can greet users and send random quotes al
 |--------------------|-------------------------------------|
 | `/hello` or `$hello` | Bot sends a greeting message       |
 | `/emoji` or `$emoji` | Bot sends a list of emojis         |
-| `/quote` or `$quote` | Bot replies with a random quote    |
+| `/inspire` or `$inspire` | Bot replies with a random quote    |
 
 All command triggers can be customized easily in the `main.py` file by modifying the `on_message` function.
 
@@ -84,7 +84,7 @@ Bot: Hello there! 👋
 User: /emoji
 Bot: 😄 🤖 🚀 🐍 🧠 🎉
 
-User: /quote
+User: /inspire
 Bot: "The only limit to our realization of tomorrow is our doubts of today." – Franklin D. Roosevelt
 ```
 
