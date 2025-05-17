@@ -64,8 +64,8 @@ client.run(TOKEN)
 ### 5. Invite Bot to Your Discord Server
 - Go to the OAuth2 > URL Generator menu
 - Select:
--- Scopes: bot
--- Bot Permissions: Send Messages, Read Message History
+  1) Scopes: bot
+  2) Bot Permissions: Send Messages, Read Message History
 - Copy the generated URL, paste it in your browser, and invite the bot to your server
 ### 6. Run the Bot
 In your terminal or editor:
@@ -89,8 +89,8 @@ Bot: "The only limit to our realization of tomorrow is our doubts of today." –
 ```
 
 <div align="center">
-  <img src="https://i.postimg.cc/TPRs9frD/Whats-App-Image-2025-05-17-at-17-50-35.jpg" alt="Demo Image" style="width: 300px; height: auto;" />
-  <img src="https://i.postimg.cc/2jsrxL3L/Whats-App-Image-2025-05-17-at-17-51-09.jpg" alt="Demo Image" style="width: 300px; height: auto;" />
+  <img src="https://i.postimg.cc/TPRs9frD/Whats-App-Image-2025-05-17-at-17-50-35.jpg" alt="Demo Image" style="width: 500px; height: auto;" />
+  <img src="https://i.postimg.cc/2jsrxL3L/Whats-App-Image-2025-05-17-at-17-51-09.jpg" alt="Demo Image" style="width: 500px; height: auto;" />
 </div>
 
 ### 📌 Notes
