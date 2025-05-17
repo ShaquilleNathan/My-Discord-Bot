@@ -43,7 +43,7 @@ pip install discord.py python-dotenv
 ```
 ### 3. Create a Bot via Discord Developer Portal
 - Visit: https://discord.com/developers/applications
-- Click New Application, name it (e.g. GreetingsBot)
+- Click New Application, name it (e.g. MyBot)
 - Go to the Bot tab → click Add Bot
 - Under Bot settings, enable the "Message Content Intent"
 - Copy the bot token (you’ll use this in the next step)
